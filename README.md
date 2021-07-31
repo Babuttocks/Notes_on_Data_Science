@@ -1,2 +1,2 @@
-# Notes_on_Data_Science
+# Intro_to _SQL
 Notes, books, explanations on Data Science
